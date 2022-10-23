@@ -1,0 +1,97 @@
+{
+  "id": 1,
+  "title": "The next big trend in crypto",
+  "content": "Quis sunt quis do laboris eiusmod in sint dolore sit pariatur consequat commodo aliqua nulla ad dolor aliquip incididunt voluptate est aliquip adipisicing ea cupidatat nostrud incididunt aliquip dolore. Sed minim nisi duis laborum est labore nisi amet elit adipisicing proident do consectetur dolor labore sit nisi ad proident esse ad velit nisi irure reprehenderit ut et dolor labore veniam quis.\n\nDesign can be art. Design can be simple. That’s why it’s so complicated. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.\n\nSunt duis laboris ex et quis laborum laborum cillum mollit voluptate culpa consequat ex cupidatat dolor eiusmod proident proident cillum pariatur sint adipisicing in nostrud do dolore consectetur quis incididunt minim consectetur. Exercitation elit proident dolor est id eiusmod dolor dolor incididunt ad voluptate laboris cupidatat est est sint veniam sint officia sint incididunt est sit ut tempor commodo pariatur ut proident et do.\n\nSed eu in ut sint dolor irure fugiat minim veniam sed ea proident ullamco occaecat irure ut velit eu ullamco fugiat cupidatat dolore fugiat. Lorem ipsum id non deserunt id consequat duis voluptate amet aliqua pariatur laboris officia pariatur veniam velit reprehenderit sint nostrud cupidatat magna eiusmod mollit exercitation pariatur nulla minim laboris dolore aliqua consectetur cillum duis aute consectetur.",
+  "post_tag": 1,
+  "author": {
+    "id": 1,
+    "username": "Monica Lucas",
+    "social": "@monicaaa",
+    "wallet": "DdzFFzCqrhshMSxb9oW3mRo4MJrQkusV3fGFSTwaiu4wPBqMryA9DYVJCkW9n7twCffG5f5wX2sSkoDXGiZB1HPa7K7f865Kk4LqnrME",
+    "followers": 500,
+    "bid": 4,
+    "author_sale": 1,
+    "about": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni",
+    "published_at": "2021-11-02T15:20:32.637Z",
+    "created_at": "2021-11-02T15:20:24.426Z",
+    "updated_at": "2021-11-30T15:42:09.638Z",
+    "avatar": {
+      "id": 19,
+      "name": "author-1.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 200,
+      "height": 200,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_author-1.jpg",
+          "hash": "thumbnail_author_1_6f9ad9e11a",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 7.45,
+          "path": null,
+          "url": "/uploads/thumbnail_author_1_6f9ad9e11a.jpg"
+        }
+      },
+      "hash": "author_1_6f9ad9e11a",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 9.93,
+      "url": "/uploads/author_1_6f9ad9e11a.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-11-02T15:12:44.838Z",
+      "updated_at": "2021-11-02T15:12:44.890Z"
+    }
+  },
+  "post_comment": 1,
+  "likes": 999,
+  "published_at": "2021-11-30T16:26:32.670Z",
+  "created_at": "2021-11-30T16:26:29.337Z",
+  "updated_at": "2021-11-30T16:28:25.016Z",
+  "cover": {
+    "id": 69,
+    "name": "news-2.jpg",
+    "alternativeText": "",
+    "caption": "",
+    "width": 700,
+    "height": 466,
+    "formats": {
+      "thumbnail": {
+        "name": "thumbnail_news-2.jpg",
+        "hash": "thumbnail_news_2_2bd481277a",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "width": 234,
+        "height": 156,
+        "size": 3.94,
+        "path": null,
+        "url": "/uploads/thumbnail_news_2_2bd481277a.jpg"
+      },
+      "small": {
+        "name": "small_news-2.jpg",
+        "hash": "small_news_2_2bd481277a",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "width": 500,
+        "height": 333,
+        "size": 12.28,
+        "path": null,
+        "url": "/uploads/small_news_2_2bd481277a.jpg"
+      }
+    },
+    "hash": "news_2_2bd481277a",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 20.94,
+    "url": "/uploads/news_2_2bd481277a.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "created_at": "2021-11-02T15:12:58.731Z",
+    "updated_at": "2021-11-02T15:12:58.751Z"
+  }
+}

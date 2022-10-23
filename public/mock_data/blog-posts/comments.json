@@ -1,0 +1,42 @@
+{
+    "counts": 5,
+    "comments": [
+      {
+        "avatar": "/uploads/author_2_c6ff6b745e.jpg",
+        "username": "Mamie Barnett",
+        "comment": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "timestamp": "2021-11-30T15:59:05.445Z",
+        "replies": [
+          {
+            "avatar": "/uploads/author_3_1769046ae5.jpg",
+            "username": "Nicholas Daniels",
+            "comment": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "timestamp": "2021-11-30T15:59:08.024Z"
+          }
+        ]
+      },
+      {
+        "avatar": "/uploads/author_1_6f9ad9e11a.jpg",
+        "username": "Monica Lucas",
+        "comment": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "timestamp": "2021-11-30T15:59:51.891Z",
+        "replies": [
+          {
+            "avatar": "/uploads/author_7_3b6dc1483c.jpg",
+            "username": "Gayle Hicks",
+            "comment": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "timestamp": "2021-11-30T15:59:38.443Z"
+          }
+        ]
+      },
+      {
+        "avatar": "/uploads/author_11_1ad2096db9.jpg",
+        "username": "Ida Chapman",
+        "comment": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "timestamp": "2021-11-30T16:03:15.782Z",
+        "replies": [
+          
+        ]
+      }
+    ]
+  }

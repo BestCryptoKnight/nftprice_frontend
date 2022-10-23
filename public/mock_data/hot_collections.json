@@ -1,0 +1,38 @@
+[
+    {
+        "avatar" : "./img/author/author-1.jpg",
+        "banner" : "./img/collections/coll-1.jpg",
+        "username" : "Abstraction",
+        "unique_id" : "ERC-192"
+    },
+    {
+        "avatar" : "./img/author/author-2.jpg",
+        "banner" : "./img/collections/coll-2.jpg",
+        "username" : "Patternlicious",
+        "unique_id" : "ERC-61"
+    },
+    {
+        "avatar" : "./img/author/author-3.jpg",
+        "banner" : "./img/collections/coll-3.jpg",
+        "username" : "Skecthify",
+        "unique_id" : "ERC-126"
+    },
+    {
+        "avatar" : "./img/author/author-4.jpg",
+        "banner" : "./img/collections/coll-4.jpg",
+        "username" : "Cartoonism",
+        "unique_id" : "ERC-73"
+    },
+    {
+        "avatar" : "./img/author/author-5.jpg",
+        "banner" : "./img/collections/coll-5.jpg",
+        "username" : "Virtuland",
+        "unique_id" : "ERC-85"
+    },
+    {
+        "avatar" : "./img/author/author-6.jpg",
+        "banner" : "./img/collections/coll-6.jpg",
+        "username" : "Papercut",
+        "unique_id" : "ERC-42"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "previewImg": "./img/carousel/crs-5.jpg",
+        "title": "live Arts",
+        "nftLink": "/ItemDetail",
+        "username": "Nicholas Daniels"
+    },
+    {
+        "previewImg": "./img/carousel/crs-4.jpg",
+        "title": "Red Ocean",
+        "nftLink": "/ItemDetail",
+        "username": "Monica Lucas"
+    },
+    {
+        "previewImg": "./img/carousel/crs-3.jpg",
+        "title": "Hot Lava",
+        "nftLink": "/ItemDetail",
+        "username": "Nicholas Daniels"
+    },
+    {
+        "previewImg": "./img/items/anim-5.webp",
+        "title": "Loop Donut",
+        "nftLink": "/ItemDetail",
+        "username": "Lori Hart"
+    },
+    {
+        "previewImg": "./img/items/anim-8.webp",
+        "title": "I Believe I Can Fly",
+        "nftLink": "/ItemDetail",
+        "username": "Fred Ryan"
+    }
+]
