@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/aws
 
 # testing
 /coverage
@@ -30,7 +31,7 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
-.env
+
 
 # vercel
 .vercel
@@ -41,5 +42,6 @@ yarn-error.log*
 
 .idea/*
 
-# aws
-/aws
+
+# Environments
+.env
